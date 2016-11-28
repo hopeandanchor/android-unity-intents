@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UnityPlugins.iml" filepath="$PROJECT_DIR$/UnityPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unitydependencies/unitydependencies.iml" filepath="$PROJECT_DIR$/unitydependencies/unitydependencies.iml" />
+    </modules>
+  </component>
+</project>
